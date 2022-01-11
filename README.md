@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
@@ -42,3 +43,11 @@ The charts should reflect the given dataset and be, at least, potentially useful
 
 Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
 PLEASE NOTE: YOU NEED TO SHARE THE LINK TO THE GITHUB REPO WITH THE DELIVERABLES TILL 8.30 AM ON MONDAY!
+=======
+# Project4
+Data cleaning and plotting
+
+- Check all deliverables
+- Rerun 2 notebooks
+- Send the link to Manu before Monday 8 AM!
+>>>>>>> 9fb6da7bf92002f70fa35d1ae7be1c3ba475659f
